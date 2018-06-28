@@ -1,0 +1,19 @@
+{
+  "name": "makovskaia.github.io",
+  "version": "1.0.0",
+  "description": "Program that parses stl format and renders 3-D model from it.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/makovskaia/makovskaia.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/makovskaia/makovskaia.github.io/issues"
+  },
+  "homepage": "https://github.com/makovskaia/makovskaia.github.io#readme"
+}
